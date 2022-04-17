@@ -1,13 +1,11 @@
 # hi-light
 Adjust intel backlight screen brightness using a GUI interface
 
-How to install
 
-  **Enter the following command**
+  **Enter the following command to install hi-light**
   
       git clone https://github.com/ELCI-Linux/hi-light ; cd hi-light ; bash hi-light.sh
       
-  How to run:
-  Enter the following command
+  **Enter the following command to run hi-light**
   
     hi-light 
