@@ -1,5 +1,5 @@
 # hi-light
-Adjust intel backlight screen brightness using a GUI interface
+Adjust intel backlight screen brightness using a GUI interface (requires sudo permission)
 
 
   **Enter the following command to install hi-light**
